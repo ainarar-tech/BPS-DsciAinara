@@ -1,0 +1,7 @@
+pandas==3.1.1
+numpy==2.5.5
+plotly
+scikit-learn==1.9.1
+joblib
+pyarrow==26.0.1
+ipykernel
